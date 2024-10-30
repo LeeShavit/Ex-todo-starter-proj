@@ -1,0 +1,298 @@
+[
+    {
+        "_id": "KAtTl",
+        "username": "muki",
+        "password": "muki1",
+        "fullname": "Muki Ja",
+        "createdAt": 1711490430252,
+        "updatedAt": 1711490430999,
+        "balance": 10000,
+        "activities": [
+            {
+                "txt": "Added a Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Completed a Todo",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Deleted a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#000000",
+            "bgColor": "#FFFFFF"
+        }
+    },
+    {
+        "_id": "Uw3Df",
+        "username": "johndoe",
+        "password": "password123",
+        "fullname": "John Doe",
+        "createdAt": 1711490440000,
+        "updatedAt": 1711490450000,
+        "balance": 5000,
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#0000FF",
+            "bgColor": "#D3D3D3"
+        }
+    },
+    {
+        "_id": "XyZ9P",
+        "username": "janedoe",
+        "password": "secret123",
+        "fullname": "Jane Doe",
+        "createdAt": 1711490460000,
+        "updatedAt": 1711490470000,
+        "balance": 7500,
+        "activities": [
+            {
+                "txt": "Added a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as active",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Deleted a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#008000",
+            "bgColor": "#F5F5DC"
+        }
+    },
+    {
+        "_id": "Qr2Tn",
+        "username": "bobsmith",
+        "password": "letmein123",
+        "fullname": "Bob Smith",
+        "createdAt": 1711490480000,
+        "updatedAt": 1711490490000,
+        "balance": 12000,
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#FF0000",
+            "bgColor": "#ADD8E6"
+        }
+    },
+    {
+        "_id": "Ld7Sy",
+        "username": "sarahjones",
+        "password": "ilovecats123",
+        "fullname": "Sarah Jones",
+        "createdAt": 1711490500000,
+        "updatedAt": 1711490510000,
+        "balance": 8000,
+        "activities": [
+            {
+                "txt": "Added a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as active",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Deleted a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#800080",
+            "bgColor": "#FFFFF0"
+        }
+    },
+    {
+        "_id": "Wf5Xv",
+        "username": "mikerodriguez",
+        "password": "password456",
+        "fullname": "Mike Rodriguez",
+        "createdAt": 1711490520000,
+        "updatedAt": 1711490530000,
+        "balance": 9500,
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#FFA500",
+            "bgColor": "#90EE90"
+        }
+    },
+    {
+        "_id": "Kj2Mz",
+        "username": "emilywilliams",
+        "password": "sunshine123",
+        "fullname": "Emily Williams",
+        "createdAt": 1711490540000,
+        "updatedAt": 1711490550000,
+        "balance": 6000,
+        "activities": [
+            {
+                "txt": "Added a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as active",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Deleted a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#FFC0CB",
+            "bgColor": "#E6E6FA"
+        }
+    },
+    {
+        "_id": "Pf8Qr",
+        "username": "davidlee",
+        "password": "letmein456",
+        "fullname": "David Lee",
+        "createdAt": 1711490560000,
+        "updatedAt": 1711490570000,
+        "balance": 11000,
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#008080",
+            "bgColor": "#FFF8DC"
+        }
+    },
+    {
+        "_id": "Gx3Tw",
+        "username": "jenniferchen",
+        "password": "sunshine789",
+        "fullname": "Jennifer Chen",
+        "createdAt": 1711490580000,
+        "updatedAt": 1711490590000,
+        "balance": 7800,
+        "activities": [
+            {
+                "txt": "Added a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as active",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Deleted a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#000080",
+            "bgColor": "#FFE4E1"
+        }
+    },
+    {
+        "_id": "Nt6Ks",
+        "username": "markwilson",
+        "password": "password789",
+        "fullname": "Mark Wilson",
+        "createdAt": 1711490600000,
+        "updatedAt": 1711490610000,
+        "balance": 9200,
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "prefs": {
+            "color": "#800000",
+            "bgColor": "#F0FFF0"
+        }
+    },
+    {
+        "_id": "N85Ks",
+        "fullname": "Admin",
+        "username": "admin",
+        "password": "admin",
+        "balance": 1020,
+        "prefs": {
+            "color": "#800000",
+            "bgColor": "#1bac1b"
+        },
+        "activities": [
+            {
+                "txt": "Created a new Todo",
+                "at": 1523873242735
+            },
+            {
+                "txt": "Marked a Todo as done",
+                "at": 1523873400000
+            },
+            {
+                "txt": "Updated a Todo",
+                "at": 1523873560000
+            }
+        ],
+        "updatedAt": 1730225041017
+    }
+]
